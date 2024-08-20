@@ -79,18 +79,19 @@ This dataset has 50k rows of data about candidates. The column names and their r
 7. Continue executing folder **notebooks**:
 
     - **eda**: In this notebook, we will dive into a comprehensive exploration of the dataset.
+
 8. Open Power BI and select the **PostgreSQL** option:
 
-    ![alt text](image.png)
+    ![PostgreSQL Option](https://i.imgur.com/JLpSDZv.png)
 
 9. Search and select **PostgreSQL** as the data source:
 
-    ![alt text](image-1.png)
+    ![Search PostgreSQL](https://i.imgur.com/XGKEafL.png)
 
 10. Enter your PostgreSQL server credentials:
 
-    ![alt text](image-2.png)
+    ![Enter Credentials](https://i.imgur.com/rZNqElp.png)
 
 11. Select the **candidatos** table (since **candidatos_original** is a raw dataset):
 
-    ![alt text](image-3.png)
+    ![Select Table](https://i.imgur.com/Dx0biEM.png)
